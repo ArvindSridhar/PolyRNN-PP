@@ -4,7 +4,7 @@ python src/inference.py \
     --PolyRNN_metagraph='models/poly/polygonplusplus.ckpt.meta' \
     --PolyRNN_checkpoint='models/poly/polygonplusplus.ckpt' \
     --EvalNet_checkpoint='models/evalnet/evalnet.ckpt' \
-    --InputFolder='imgs/' \
+    --InputFolder='images/test_images_resized/' \
     --GGNN_checkpoint='models/ggnn/ggnn.ckpt' \
     --GGNN_metagraph='models/ggnn/ggnn.ckpt.meta' \
     --OutputFolder='output/' \

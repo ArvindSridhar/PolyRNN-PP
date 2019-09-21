@@ -113,3 +113,10 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+# Arvind insertions
+*.tar.gz
+images/
+models/evalnet/
+models/ggnn/
+models/poly/
+output/
