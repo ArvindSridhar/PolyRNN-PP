@@ -120,3 +120,4 @@ models/evalnet/
 models/ggnn/
 models/poly/
 output/
+*.ipynb
